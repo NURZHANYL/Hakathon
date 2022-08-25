@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "info": {
+      "name": "Acer",
+      "model": "10",
+      "year": "2016",
+      "description": "Good Nout",
+      "price": "35000"
+    }
+  },
+  {
+    "id": 2,
+    "info": {
+      "name": "MaCos",
+      "model": "9",
+      "year": "2020",
+      "description": "Super Mac",
+      "price": "98000"
+    }
+  },
+  {
+    "id": 3,
+    "info": {
+      "name": "Lenovo",
+      "model": "13",
+      "year": "2019",
+      "description": "great Nout",
+      "price": "55000"
+    }
+  },
+  {
+    "id": 4,
+    "name": "2",
+    "model": "Macos",
+    "data": 2021,
+    "description": "Super Mac",
+    "price": 98000.0
+  }
+]
